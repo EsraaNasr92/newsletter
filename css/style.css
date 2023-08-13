@@ -63,6 +63,7 @@ ul li{
 .left_section ul li{
     background: url('../assets/images/icon-list.svg') no-repeat 0px 10px;
     padding: 5px 10px 5px 25px;
+    line-height: 35px;
 }
 .left_section input{
     width: 100%;
