@@ -103,8 +103,11 @@ button:hover{
 #error_message{
     color: red;
 }
-.form-input{
+.form-input h1{
     margin-top: 20px;
+    font-size: 1.5rem;
+    float: left;
+    padding-bottom: 10px;
 }
 #thankyou{
     display: none;
