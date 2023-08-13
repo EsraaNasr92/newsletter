@@ -160,10 +160,6 @@ button:hover{
         display: block;
     }
     .attribution{
-        color: hsl(234, 29%, 20%);
-        position: absolute;
-        bottom: -20%;
-        text-align: center;
-        line-height: 25px;
+        display: none;
     }
 }
